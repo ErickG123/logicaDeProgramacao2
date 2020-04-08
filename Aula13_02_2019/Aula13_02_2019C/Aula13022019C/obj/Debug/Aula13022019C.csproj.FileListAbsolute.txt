@@ -1,0 +1,7 @@
+E:\Tecnicas De Programação - Ronan\Aula2_Exercicio1\Aula13022019C\Aula13022019C\obj\Debug\Aula13022019C.csprojAssemblyReference.cache
+E:\Tecnicas De Programação - Ronan\Aula2_Exercicio1\Aula13022019C\Aula13022019C\obj\Debug\Aula13022019C.csproj.CoreCompileInputs.cache
+E:\Tecnicas De Programação - Ronan\Aula2_Exercicio1\Aula13022019C\Aula13022019C\bin\Debug\Aula13022019C.exe.config
+E:\Tecnicas De Programação - Ronan\Aula2_Exercicio1\Aula13022019C\Aula13022019C\bin\Debug\Aula13022019C.exe
+E:\Tecnicas De Programação - Ronan\Aula2_Exercicio1\Aula13022019C\Aula13022019C\bin\Debug\Aula13022019C.pdb
+E:\Tecnicas De Programação - Ronan\Aula2_Exercicio1\Aula13022019C\Aula13022019C\obj\Debug\Aula13022019C.exe
+E:\Tecnicas De Programação - Ronan\Aula2_Exercicio1\Aula13022019C\Aula13022019C\obj\Debug\Aula13022019C.pdb

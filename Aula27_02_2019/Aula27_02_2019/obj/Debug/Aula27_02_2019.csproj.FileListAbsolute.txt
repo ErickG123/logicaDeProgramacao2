@@ -1,0 +1,7 @@
+C:\Users\etec\Desktop\Nova pasta\Aula27_02_2019\Aula27_02_2019\bin\Debug\Aula27_02_2019.exe.config
+C:\Users\etec\Desktop\Nova pasta\Aula27_02_2019\Aula27_02_2019\bin\Debug\Aula27_02_2019.exe
+C:\Users\etec\Desktop\Nova pasta\Aula27_02_2019\Aula27_02_2019\bin\Debug\Aula27_02_2019.pdb
+C:\Users\etec\Desktop\Nova pasta\Aula27_02_2019\Aula27_02_2019\obj\Debug\Aula27_02_2019.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Nova pasta\Aula27_02_2019\Aula27_02_2019\obj\Debug\Aula27_02_2019.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Nova pasta\Aula27_02_2019\Aula27_02_2019\obj\Debug\Aula27_02_2019.exe
+C:\Users\etec\Desktop\Nova pasta\Aula27_02_2019\Aula27_02_2019\obj\Debug\Aula27_02_2019.pdb

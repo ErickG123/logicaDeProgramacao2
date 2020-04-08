@@ -1,0 +1,7 @@
+E:\Tecnicas De Programação - Ronan\Aula27_03_2019\Lista\Exercicio5\Exercicio5\obj\Debug\Exercicio5.csprojAssemblyReference.cache
+E:\Tecnicas De Programação - Ronan\Aula27_03_2019\Lista\Exercicio5\Exercicio5\obj\Debug\Exercicio5.csproj.CoreCompileInputs.cache
+E:\Tecnicas De Programação - Ronan\Aula27_03_2019\Lista\Exercicio5\Exercicio5\bin\Debug\Exercicio5.exe.config
+E:\Tecnicas De Programação - Ronan\Aula27_03_2019\Lista\Exercicio5\Exercicio5\bin\Debug\Exercicio5.exe
+E:\Tecnicas De Programação - Ronan\Aula27_03_2019\Lista\Exercicio5\Exercicio5\bin\Debug\Exercicio5.pdb
+E:\Tecnicas De Programação - Ronan\Aula27_03_2019\Lista\Exercicio5\Exercicio5\obj\Debug\Exercicio5.exe
+E:\Tecnicas De Programação - Ronan\Aula27_03_2019\Lista\Exercicio5\Exercicio5\obj\Debug\Exercicio5.pdb

@@ -1,0 +1,7 @@
+C:\Users\etec\Desktop\Ronan\CalculadoraComIf\CalculadoraComIf\bin\Debug\CalculadoraComIf.exe.config
+C:\Users\etec\Desktop\Ronan\CalculadoraComIf\CalculadoraComIf\bin\Debug\CalculadoraComIf.exe
+C:\Users\etec\Desktop\Ronan\CalculadoraComIf\CalculadoraComIf\bin\Debug\CalculadoraComIf.pdb
+C:\Users\etec\Desktop\Ronan\CalculadoraComIf\CalculadoraComIf\obj\Debug\CalculadoraComIf.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Ronan\CalculadoraComIf\CalculadoraComIf\obj\Debug\CalculadoraComIf.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Ronan\CalculadoraComIf\CalculadoraComIf\obj\Debug\CalculadoraComIf.exe
+C:\Users\etec\Desktop\Ronan\CalculadoraComIf\CalculadoraComIf\obj\Debug\CalculadoraComIf.pdb

@@ -1,0 +1,7 @@
+C:\Users\etec\Desktop\Prova Ronan\Exer2\Exer2\bin\Debug\Exer2.exe.config
+C:\Users\etec\Desktop\Prova Ronan\Exer2\Exer2\bin\Debug\Exer2.exe
+C:\Users\etec\Desktop\Prova Ronan\Exer2\Exer2\bin\Debug\Exer2.pdb
+C:\Users\etec\Desktop\Prova Ronan\Exer2\Exer2\obj\Debug\Exer2.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Prova Ronan\Exer2\Exer2\obj\Debug\Exer2.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Prova Ronan\Exer2\Exer2\obj\Debug\Exer2.exe
+C:\Users\etec\Desktop\Prova Ronan\Exer2\Exer2\obj\Debug\Exer2.pdb

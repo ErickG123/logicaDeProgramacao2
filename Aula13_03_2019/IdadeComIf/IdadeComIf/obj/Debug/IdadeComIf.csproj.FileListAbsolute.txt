@@ -1,0 +1,7 @@
+C:\Users\etec\Desktop\Nova pasta\IdadeComIf\IdadeComIf\bin\Debug\IdadeComIf.exe.config
+C:\Users\etec\Desktop\Nova pasta\IdadeComIf\IdadeComIf\bin\Debug\IdadeComIf.exe
+C:\Users\etec\Desktop\Nova pasta\IdadeComIf\IdadeComIf\bin\Debug\IdadeComIf.pdb
+C:\Users\etec\Desktop\Nova pasta\IdadeComIf\IdadeComIf\obj\Debug\IdadeComIf.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Nova pasta\IdadeComIf\IdadeComIf\obj\Debug\IdadeComIf.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Nova pasta\IdadeComIf\IdadeComIf\obj\Debug\IdadeComIf.exe
+C:\Users\etec\Desktop\Nova pasta\IdadeComIf\IdadeComIf\obj\Debug\IdadeComIf.pdb

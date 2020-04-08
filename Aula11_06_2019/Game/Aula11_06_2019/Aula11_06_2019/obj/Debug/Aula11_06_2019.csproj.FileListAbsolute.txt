@@ -1,0 +1,14 @@
+C:\Users\etec\Desktop\Game\Aula11_06_2019\Aula11_06_2019\bin\Debug\Aula11_06_2019.exe.config
+C:\Users\etec\Desktop\Game\Aula11_06_2019\Aula11_06_2019\bin\Debug\Aula11_06_2019.exe
+C:\Users\etec\Desktop\Game\Aula11_06_2019\Aula11_06_2019\bin\Debug\Aula11_06_2019.pdb
+C:\Users\etec\Desktop\Game\Aula11_06_2019\Aula11_06_2019\obj\Debug\Aula11_06_2019.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Game\Aula11_06_2019\Aula11_06_2019\obj\Debug\Aula11_06_2019.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Game\Aula11_06_2019\Aula11_06_2019\obj\Debug\Aula11_06_2019.exe
+C:\Users\etec\Desktop\Game\Aula11_06_2019\Aula11_06_2019\obj\Debug\Aula11_06_2019.pdb
+F:\Tecnicas De Programação - Sergio\Aula11_06_2019\Game\Aula11_06_2019\Aula11_06_2019\bin\Debug\Aula11_06_2019.exe.config
+F:\Tecnicas De Programação - Sergio\Aula11_06_2019\Game\Aula11_06_2019\Aula11_06_2019\bin\Debug\Aula11_06_2019.exe
+F:\Tecnicas De Programação - Sergio\Aula11_06_2019\Game\Aula11_06_2019\Aula11_06_2019\bin\Debug\Aula11_06_2019.pdb
+F:\Tecnicas De Programação - Sergio\Aula11_06_2019\Game\Aula11_06_2019\Aula11_06_2019\obj\Debug\Aula11_06_2019.csprojAssemblyReference.cache
+F:\Tecnicas De Programação - Sergio\Aula11_06_2019\Game\Aula11_06_2019\Aula11_06_2019\obj\Debug\Aula11_06_2019.csproj.CoreCompileInputs.cache
+F:\Tecnicas De Programação - Sergio\Aula11_06_2019\Game\Aula11_06_2019\Aula11_06_2019\obj\Debug\Aula11_06_2019.exe
+F:\Tecnicas De Programação - Sergio\Aula11_06_2019\Game\Aula11_06_2019\Aula11_06_2019\obj\Debug\Aula11_06_2019.pdb

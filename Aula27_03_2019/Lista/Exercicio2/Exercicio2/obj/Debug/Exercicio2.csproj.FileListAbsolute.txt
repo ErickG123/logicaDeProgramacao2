@@ -1,0 +1,7 @@
+C:\Users\etec\Desktop\Lista\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Lista\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Lista\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe.config
+C:\Users\etec\Desktop\Lista\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe
+C:\Users\etec\Desktop\Lista\Exercicio2\Exercicio2\bin\Debug\Exercicio2.pdb
+C:\Users\etec\Desktop\Lista\Exercicio2\Exercicio2\obj\Debug\Exercicio2.exe
+C:\Users\etec\Desktop\Lista\Exercicio2\Exercicio2\obj\Debug\Exercicio2.pdb

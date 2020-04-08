@@ -1,0 +1,15 @@
+Para os exercicios abaixo, faça um código comentado e com nomes de variaveis devidamente declaradas.
+
+1 – Elabore um algoritmo que calcule a idade média de 5 alunos.
+
+2 - Leia o nome e tamanho de duas pessoas, apresente qual é a mais alta.
+
+3 - Faça um algoritmo que calcule e exiba o salário reajustado de um funcionário de acordo com a seguinte regra: 
+	Salário até 300, reajuste de 50%; 
+	Salários maiores que 300, reajuste de 30%.
+	
+4 - Desenvolva um programa que solicite a entrada de um número e informe se o número é par ou impar.
+
+5 - Leia três números entrados pelo usuário e exiba em ordem crescente e decrescente.
+
+

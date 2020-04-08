@@ -1,0 +1,14 @@
+C:\Users\sergio.lacerda\Desktop\TP\Questao05\Questao05\Questao05\bin\Debug\Questao05.exe.config
+C:\Users\sergio.lacerda\Desktop\TP\Questao05\Questao05\Questao05\bin\Debug\Questao05.exe
+C:\Users\sergio.lacerda\Desktop\TP\Questao05\Questao05\Questao05\bin\Debug\Questao05.pdb
+C:\Users\sergio.lacerda\Desktop\TP\Questao05\Questao05\Questao05\obj\Debug\Questao05.csprojAssemblyReference.cache
+C:\Users\sergio.lacerda\Desktop\TP\Questao05\Questao05\Questao05\obj\Debug\Questao05.csproj.CoreCompileInputs.cache
+C:\Users\sergio.lacerda\Desktop\TP\Questao05\Questao05\Questao05\obj\Debug\Questao05.exe
+C:\Users\sergio.lacerda\Desktop\TP\Questao05\Questao05\Questao05\obj\Debug\Questao05.pdb
+C:\Users\etec\Desktop\Questao05\Questao05\bin\Debug\Questao05.exe.config
+C:\Users\etec\Desktop\Questao05\Questao05\bin\Debug\Questao05.exe
+C:\Users\etec\Desktop\Questao05\Questao05\bin\Debug\Questao05.pdb
+C:\Users\etec\Desktop\Questao05\Questao05\obj\Debug\Questao05.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Questao05\Questao05\obj\Debug\Questao05.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Questao05\Questao05\obj\Debug\Questao05.exe
+C:\Users\etec\Desktop\Questao05\Questao05\obj\Debug\Questao05.pdb
